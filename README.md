@@ -1,2 +1,1 @@
-# weebot
-Discord bot that postes new updates of manga/manhwa 
+# Weebot: The Manga update discord bot
